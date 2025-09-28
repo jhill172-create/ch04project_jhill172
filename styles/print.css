@@ -1,1 +1,16 @@
+/* Hide navigation and images */
+nav, img {
+  display: none;
+}
+
+/* Print sections one after another */
+section {
+  margin-bottom: 1rem;
+}
+
+/* Header/footer styles */
+header, footer {
+  text-align: center;
+  font-size: 14pt;
+}
 
